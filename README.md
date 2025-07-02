@@ -86,9 +86,6 @@ streamlit run app.py
 ---
 
 ## 🖼️ Sample UI
-
-> Replace the placeholder below with your own screenshot or gif inside the `assets/` folder.
-
 ![App Preview](assets/qa-chatbot-demo.png)
 
 ---
